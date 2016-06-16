@@ -1,0 +1,3 @@
+- Vaststelling ad vloeien volgens Admob beleid
+- Het toevoegen van advertentieruimte voor banner
+- Vaststelling kan niet op de knoppen

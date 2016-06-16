@@ -1,0 +1,3 @@
+- Befestigung ad fließen nach Admob Politik
+- Hinzufügen von Werbeflächen für Banner
+- Befestigung kann nicht klicken Sie auf die Tasten

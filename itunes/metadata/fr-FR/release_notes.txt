@@ -1,0 +1,3 @@
+- Fixation ad écoulement conformément à la politique Admob
+- Ajout d'espace publicitaire pour la bannière
+- Fixation ne peut pas cliquer sur les boutons

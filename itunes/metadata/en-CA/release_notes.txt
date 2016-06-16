@@ -1,0 +1,3 @@
+- Fixing ad flow according to Admob policy 
+- Adding ad space for banner 
+- Fixing can not click on the buttons

@@ -1,0 +1,3 @@
+- Fastsættelse annonce flow i henhold til AdMob politik
+- Tilføjelse annonceplads til banner
+- Fastsættelse kan ikke klikke på knapperne

@@ -1,0 +1,3 @@
+- Fastställande annons flöde enligt Admob politik
+- Lägga annonsutrymme för banner
+- Fastställande kan inte klicka på knapparna

@@ -1,0 +1,3 @@
+- Fissaggio ad flusso in base alle norme di AdMob
+- L'aggiunta di spazi pubblicitari per banner
+- Fissaggio non può cliccare sui pulsanti

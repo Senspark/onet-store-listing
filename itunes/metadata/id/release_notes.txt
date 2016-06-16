@@ -1,0 +1,3 @@
+- Iklan Memperbaiki mengalir sesuai dengan kebijakan Admob
+- Menambahkan ruang iklan untuk banner
+- Memperbaiki tidak dapat mengklik tombol

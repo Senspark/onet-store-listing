@@ -1,0 +1,3 @@
+- Sopiminen mainos virtaus mukaan Admob politiikka
+- Lisäämällä mainos tilaa banneri
+- Sopiminen voi klikkaa painikkeita

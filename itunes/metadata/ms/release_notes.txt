@@ -1,0 +1,3 @@
+- Mengalir iklan Penetapan mengikut dasar AdMob
+- Menambah ruang iklan untuk banner
+- Penetapan tidak boleh klik pada butang

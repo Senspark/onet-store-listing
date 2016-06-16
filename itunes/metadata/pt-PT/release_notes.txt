@@ -1,0 +1,3 @@
+- Ad Fixação de fluxo de acordo com a política de Admob
+- Adição de espaço publicitário para a bandeira
+- Fixação não pode clicar nos botões

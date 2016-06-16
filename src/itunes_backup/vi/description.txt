@@ -1,0 +1,13 @@
+Hãy chơi đi, cố gắng kết nối những thẻ trùng nhau và hoàn tất ván chơi trước khi thời gian kết thúc. Kiểm tra tốc độ mắt của bạn, sức chịu đựng và chiến thuật để đạt điểm cao với số lượng màn chơi không giới hạn.
+
+Hãy thử nào !
+
+Cách chơi:
+- Màn hình chơi sẽ là một ma trận các con thú xinh đẹp (9 x16) 144 ô 
+- Nối 2 ô với nhau với tối đa 3 đường nối vuông góc để làm chúng biến mất.
+- Bạn sẽ hoàn thành 1 level khi tất cả các con thú đã biến mất
+- Game over khi hết thời gian.
+
+Với số lượng level không gới hạn, bạn sẽ tập cho đôi mắt, và bộ não của mình thật tinh nhanh khi chơi Onet
+
+Hãy tải Onet ngay hôm nay để trải nghiệm lại game Onet kinh điển một thời các bạn nhé !
